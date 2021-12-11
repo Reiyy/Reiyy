@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
 [![](https://img.shields.io/badge/Redmi-K30%20Pro-dd3a0a?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
 
-[![](https://img.shields.io/badge/Logitech-G304-blue?style=flat-square&logo=logitech&logoColor=ffffff)](https://www.logitech.com.cn/zh-cn)
+[![](https://img.shields.io/badge/Logitech-G304-blueviolet?style=flat-square&logo=logitech&logoColor=ffffff)](https://www.logitech.com.cn/zh-cn)
 
 #### Console&Game
 ![](https://img.shields.io/badge/-PlayStation%20Portable-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)
