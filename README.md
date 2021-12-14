@@ -18,15 +18,11 @@
 ![](https://img.shields.io/badge/-PlayStation%20Portable-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/yareiy)
 
-[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=yareiy722&count_private=true&theme=buefy&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=yareiy722&count_private=true&theme=buefy&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-### Hi there 👋
+[![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=reiyy722&count_private=true&theme=buefy&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=reiyy&count_private=true&theme=buefy&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**yareiy722/yareiy722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**reiyy/reiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
