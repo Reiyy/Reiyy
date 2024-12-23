@@ -10,7 +10,8 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/OnePlus-7%20Pro-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/)
-[![](https://img.shields.io/badge/Redmi-K30%20Pro-dd3a0a?style=flat-square&logo=xiaomi&logoColor=ffffff)](https://www.mi.com/)
+[![](https://img.shields.io/badge/Samsung-Galaxy%20Z%20Flod3-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com/)
+[![](https://img.shields.io/badge/Motorola-Razr%202019-e1140a?style=flat-square&logo=motorola&logoColor=ffffff)](https://www.motorola.com/)
 
 [![](https://img.shields.io/badge/Logitech-G304-blueviolet?style=flat-square&logo=logitech&logoColor=ffffff)](https://www.logitech.com.cn/zh-cn)
 
