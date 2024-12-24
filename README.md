@@ -21,6 +21,7 @@
 
 [![Readme Card](https://github-readme-stats-one-bice.vercel.app/api?username=reiyy&count_private=true&theme=buefy&show_icons=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=reiyy&count_private=true&theme=buefy&layout=compact&exclude_repo=Hardware-Course&hide=Jupyter%20Notebook,MATLAB&role=OWNER,ORGANIZATION_MEMBER&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![An image of @reiyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/reiyy)](https://holopin.io/@reiyy)
 
 <!--
 **reiyy/reiyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
