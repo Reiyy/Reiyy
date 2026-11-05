@@ -9,7 +9,8 @@
 [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/MEIZU-21%20Pro-66ccff?style=flat-square&logo=meizu&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/iPhone-17-a9bdde?style=flat-square&logo=apple&logoColor=ffffff)](https://www.oneplus.com/)
+[![](https://img.shields.io/badge/MEIZU-21%20Pro-66ccff?style=flat-square&logo=meizu&logoColor=ffffff)](https://www.meizu.com/)
 [![](https://img.shields.io/badge/Samsung-Galaxy%20Z%20Flod3-1428a0?style=flat-square&logo=samsung&logoColor=ffffff)](https://www.samsung.com/)
 
 [![](https://img.shields.io/badge/Logitech-G304-blueviolet?style=flat-square&logo=logitech&logoColor=ffffff)](https://www.logitech.com.cn/zh-cn)
